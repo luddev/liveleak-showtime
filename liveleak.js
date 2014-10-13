@@ -62,11 +62,11 @@
             page.loading = true;
             if(fromPage == 1)   {
                 var response = showtime.httpReq(BASE_URL + url + '?feature=1&page=1').toString();
-                showtime.print(BASE_URL + url +'?feature=1&page=1');
+                showtime.print(BASE_URL + url +'?featured=1&page=1');
             }
             else {
-                var response = showtime.httpReq(BASE_URL + url + '?feature=1&page=' + fromPage).toString();
-                showtime.print(BASE_URL + url + '?feature=1&page=' + fromPage);
+                var response = showtime.httpReq(BASE_URL + url + 'browse?featured=1&page=' + fromPage).toString();
+                showtime.print(BASE_URL + url + 'browse?featured=1&page=' + fromPage);
             }   
             if (fromPage == 1) {
                     
