@@ -19,7 +19,7 @@
   settings.createInfo("info",
                  plugin.path + "liveleak.gif",
                  "liveleak \n"+
-                 "Copyrighted Limited www.liveleak.com - Some Rights Reserved.\n"+
+                 "All Rights Reserved to liveleak , liveleak , liveleak.com are copyright of liveleak.com\n"+
                  "Plugin developed by ludkiller/lud \n");
 
     plugin.addURI(PREFIX + ":play:(.*)",function(page,url){
