@@ -3,7 +3,7 @@ liveleak-showtime
 
 liveleak ShowtimeMediaCenter plugin
 
-Release : https://github.com/ludkiller/liveleak-showtime/raw/master/liveleak.tar.gz
+Release : https://github.com/ludkiller/liveleak-showtime/blob/master/liveleak-showtime.zip?raw=true
 
 ![preview 1](http://qs.lc/ludkiller/bke.png)
 
